@@ -1,0 +1,18 @@
+.wrap_header, .wrap_footer {
+    padding: 15px 0;
+}
+
+.wrap_header {
+    background: #444;
+}
+
+.wrap_header .nav-link, .wrap_footer {
+    color: #CCC;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+
+.wrap_header .dropdown-item:active, .wrap_header .dropdown-item:hover, .wrap_header .dropdown-item:focus {
+    color: #212529;
+    background-color: transparent;
+}

@@ -1,0 +1,15 @@
+body {
+    background: #000000 url(/static/img/background.jpg) no-repeat fixed center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.wrap_content {
+    color: #FFF;
+}
+
+.wrap_content .description_main {
+    background-color: #272727A6;
+}
